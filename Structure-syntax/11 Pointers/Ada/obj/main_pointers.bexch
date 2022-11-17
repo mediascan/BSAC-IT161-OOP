@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main_pointers.o
+[PROJECT FILES]
+L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr
+20221114114300 5929007da4cd5524cb61bdf1358bbd9b
+[BOUND OBJECT FILES]
+L:\projOOP\Structure-syntax\11 Pointers\Ada\obj\main_Pointers.o
+[GENERATED SOURCE FILES]
+b__main_pointers.ads
+b__main_pointers.adb
+b__main_pointers.ali
+[RESULTING OPTIONS]
+-LL:\projOOP\Structure-syntax\11 Pointers\Ada\obj\
+-LL:\projOOP\Structure-syntax\11 Pointers\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

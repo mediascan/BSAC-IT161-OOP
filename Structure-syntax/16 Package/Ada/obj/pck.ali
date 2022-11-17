@@ -1,0 +1,18 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U pck%s			pck.ads			72a98ac7 NE OO PK
+
+D pck.ads		20221114192238 72a98ac7 pck%s
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+X 1 pck.ads
+2K9*Pck 4l5 4e8
+3i4*My_Glob{integer}
+

@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main_cycle.o
+[PROJECT FILES]
+L:\projOOP\Structure-syntax\05 Cycles\Ada\default.gpr
+20221110162646 366008eefacaff3a42bf48a3cea59494
+[BOUND OBJECT FILES]
+L:\projOOP\Structure-syntax\05 Cycles\Ada\obj\main_cycle.o
+[GENERATED SOURCE FILES]
+b__main_cycle.ads
+b__main_cycle.adb
+b__main_cycle.ali
+[RESULTING OPTIONS]
+-LL:\projOOP\Structure-syntax\05 Cycles\Ada\obj\
+-LL:\projOOP\Structure-syntax\05 Cycles\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

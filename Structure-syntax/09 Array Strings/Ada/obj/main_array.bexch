@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main_array.o
+[PROJECT FILES]
+L:\projOOP\Structure-syntax\09 Array Strings\Ada\default.gpr
+20221113160816 8baee1b0a10a41cea9b0c452205c5bd4
+[BOUND OBJECT FILES]
+L:\projOOP\Structure-syntax\09 Array Strings\Ada\obj\main_Array.o
+[GENERATED SOURCE FILES]
+b__main_array.ads
+b__main_array.adb
+b__main_array.ali
+[RESULTING OPTIONS]
+-LL:\projOOP\Structure-syntax\09 Array Strings\Ada\obj\
+-LL:\projOOP\Structure-syntax\09 Array Strings\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

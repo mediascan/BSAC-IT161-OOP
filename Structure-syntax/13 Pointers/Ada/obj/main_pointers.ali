@@ -1,0 +1,25 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_ALLOCATORS_AFTER_ELABORATION
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main_pointers%b	main_pointers.adb	beac51aa NE OO SU
+
+D main_pointers.adb	20221114151744 beac51aa main_pointers%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z b b [main_pointers standard 4 11 none]
+X 1 main_pointers.adb
+4U11*Main_Pointers 4b11 9l5 9t18
+5P9 A_Int(integer) 6r10
+6p4 Var{5P9} 8r4
+

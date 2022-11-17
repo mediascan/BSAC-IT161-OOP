@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 17" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\12 Pointers\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\13 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\13 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 4" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\13 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\13 Pointers\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\14 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 23">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 22">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 19">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 20">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 12">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 12">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 12">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 13">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 6">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\main.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 7">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\R.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Makefile</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Makefile</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Makefile</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Makefile</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 1">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Makefile</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 7">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\R.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 11">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 25">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 7">
+      <vfs_project  />
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Java\Main.java</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 14">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 6">
+      <vfs_project >L:\projOOP\Structure-syntax\11 Pointers\Ada\default.gpr</vfs_project>
+      <vfs_file >L:\projOOP\Structure-syntax\11 Pointers\Ada\src\main_Pointers.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

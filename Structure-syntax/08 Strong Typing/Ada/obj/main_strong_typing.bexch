@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main_strong_typing.o
+[PROJECT FILES]
+L:\projOOP\Structure-syntax\08 Strong Typing\Ada\default.gpr
+20221111193904 8cbffbc71d28b01f303bc2254b5bf9ca
+[BOUND OBJECT FILES]
+L:\projOOP\Structure-syntax\08 Strong Typing\Ada\obj\main_strong_Typing.o
+[GENERATED SOURCE FILES]
+b__main_strong_typing.ads
+b__main_strong_typing.adb
+b__main_strong_typing.ali
+[RESULTING OPTIONS]
+-LL:\projOOP\Structure-syntax\08 Strong Typing\Ada\obj\
+-LL:\projOOP\Structure-syntax\08 Strong Typing\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

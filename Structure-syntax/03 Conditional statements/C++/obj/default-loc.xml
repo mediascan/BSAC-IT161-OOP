@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\03 Conditional statements\Ada\src\main_module.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project />
+      <vfs_file />
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\03 Conditional statements\Ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\03 Conditional statements\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 16" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\03 Conditional statements\C++\src\main.cpp</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>L:\projOOP\Structure-syntax\01 Hello World\C++\src\main.cpp</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

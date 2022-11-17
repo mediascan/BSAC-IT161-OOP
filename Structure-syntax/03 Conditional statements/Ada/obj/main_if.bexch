@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main_if.o
+[PROJECT FILES]
+L:\projOOP\Structure-syntax\03 Conditional statements\Ada\default.gpr
+20221110154602 b5c11439c0bdbd4d45f94dc0c08005ac
+[BOUND OBJECT FILES]
+L:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\main_if.o
+[GENERATED SOURCE FILES]
+b__main_if.ads
+b__main_if.adb
+b__main_if.ali
+[RESULTING OPTIONS]
+-LL:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\
+-LL:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

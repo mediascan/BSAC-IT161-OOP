@@ -1,0 +1,12 @@
+project Main is
+
+   for Languages use ("Java");
+   for Source_Dirs use ("./");  
+   -- for Object_Dir use "obj";
+
+   package Make is
+      for Makefile use "Makefile";
+   end Make;
+
+end Main;
+

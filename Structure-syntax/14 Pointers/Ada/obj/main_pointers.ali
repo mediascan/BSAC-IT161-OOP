@@ -1,0 +1,37 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_ALLOCATORS_AFTER_ELABORATION
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_UNCHECKED_DEALLOCATION
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main_pointers%b	main_pointers.adb	dd4aedf7 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.unchecked_deallocation%s
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-uncdea.ads		20210520051130 c3a8ac65 ada.unchecked_deallocation%s
+D main_pointers.adb	20221114152730 1ee24192 main_pointers%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z b b [main_pointers standard 5 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 3|4r6 7r27
+X 2 a-uncdea.ads
+20u15*Unchecked_Deallocation 3|4w10 7r31
+X 3 main_pointers.adb
+5U11*Main_Pointers 5b11 12l5 12t18
+6P10 Integer_Access(integer) 8r38 9r18
+7U15 Free[2|20] 11s5
+9p5 My_Pointer{6P10} 11m11 11r11
+

@@ -1,0 +1,5 @@
+main.adb:13:13: error: invalid operand types for operator "+"
+main.adb:13:13: error: left operand has type "Distance" defined at line 6
+main.adb:13:13: error: right operand has type "Area" defined at line 7
+main.adb:16:12: error: expected type "Area" defined at line 7
+main.adb:16:12: error: found type "Distance" defined at line 6

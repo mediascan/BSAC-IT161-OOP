@@ -1,0 +1,2 @@
+main_range.adb:14:11: error: expected type "Grade" defined at line 6
+main_range.adb:14:11: error: found type "Standard.Integer"
