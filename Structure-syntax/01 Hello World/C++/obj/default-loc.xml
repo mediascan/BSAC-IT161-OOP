@@ -1,42 +1,14 @@
 <?xml version="1.0"?>
-<Locations>
+<Locations >
   <Project>
     <vfs_file />
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\Java\Intro.java</vfs_file>
+      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 40" line=" 4" >
+    <file_marker current="true" column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\Java\Intro.java</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\Java\default.gpr</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 7" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\Java\Intro.java</vfs_file>
-    </file_marker>
-    <file_marker column=" 9" line=" 1" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\Java\default.gpr</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\C++\src\main.cpp</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 7" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\C++\src\main.cpp</vfs_file>
-    </file_marker>
-    <file_marker column=" 11" line=" 5" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\C++\src\main.cpp</vfs_file>
-    </file_marker>
-    <file_marker current="true" column=" 1" line=" 7" >
-      <vfs_project />
-      <vfs_file>L:\projOOP\Structure-syntax\Hello World\C++\src\main.cpp</vfs_file>
+      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\C++\src\main.cpp</vfs_file>
     </file_marker>
   </Project>
 </Locations>
