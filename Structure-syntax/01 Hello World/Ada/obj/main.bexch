@@ -1,17 +1,17 @@
 [GENERATED OBJECT FILE]
 b__main.o
 [PROJECT FILES]
-L:\projOOP\Structure-syntax\01 Hello World\Ada\default.gpr
-20221110155050 0da9e215385182e685d2ae5507aaaf91
+D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\default.gpr
+20221119083646 6031688a49ad700b8cf6e1da431c3d52
 [BOUND OBJECT FILES]
-L:\projOOP\Structure-syntax\01 Hello World\Ada\obj\main.o
+D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\main.o
 [GENERATED SOURCE FILES]
 b__main.ads
 b__main.adb
 b__main.ali
 [RESULTING OPTIONS]
--LL:\projOOP\Structure-syntax\01 Hello World\Ada\obj\
--LL:\projOOP\Structure-syntax\01 Hello World\Ada\obj\
+-LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\
+-LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\
 -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
 -static
 -static-libgcc

@@ -245,9 +245,9 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   L:\projOOP\Structure-syntax\01 Hello World\Ada\obj\main.o
-   --   -LL:\projOOP\Structure-syntax\01 Hello World\Ada\obj\
-   --   -LL:\projOOP\Structure-syntax\01 Hello World\Ada\obj\
+   --   D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\main.o
+   --   -LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\
+   --   -LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Ada\obj\
    --   -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
    --   -static
    --   -lgnat
