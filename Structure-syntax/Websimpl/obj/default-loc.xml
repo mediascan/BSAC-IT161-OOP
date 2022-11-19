@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Locations >
+<Locations>
   <Project>
     <vfs_file />
     <file_marker column=" 1" line=" 1" >
@@ -14,17 +14,9 @@
       <vfs_project />
       <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\02 Operators and declarations\C++\src\main.cpp</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\Websimpl\src\default.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\01 Hello World\Java\default.gpr</vfs_file>
-    </file_marker>
     <file_marker current="true" column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\02 Operators and declarations\Java\Main.java</vfs_file>
+      <vfs_file>D:\GitHub\BSAC-IT161-OOP\Structure-syntax\Websimpl\src\default.ads</vfs_file>
     </file_marker>
   </Project>
 </Locations>
