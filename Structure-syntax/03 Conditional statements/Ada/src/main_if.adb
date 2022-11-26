@@ -5,7 +5,7 @@ with Ada.Text_IO;
 use Ada.Text_IO;
 procedure Main_if is
    -- Variable declarations
-   Variable : Integer := 0;
+   Variable : Integer := 4;
 begin
    if Variable > 0 then
       Put_Line (" > 0 ");

@@ -245,9 +245,9 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   L:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\main_if.o
-   --   -LL:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\
-   --   -LL:\projOOP\Structure-syntax\03 Conditional statements\Ada\obj\
+   --   D:\GitHub\BSAC-IT161-OOP\Structure-syntax\03 Conditional statements\Ada\obj\main_if.o
+   --   -LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\03 Conditional statements\Ada\obj\
+   --   -LD:\GitHub\BSAC-IT161-OOP\Structure-syntax\03 Conditional statements\Ada\obj\
    --   -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
    --   -static
    --   -lgnat
